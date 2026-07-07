@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000001",
+      "localizations": [],
+      "name": "Physical Therapy Reps Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "21000002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Custom PT routines and progress charts to share with therapist",
+              "displayName": "Physical Therapy Reps Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.ptreps.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Physical Therapy Reps Pro Monthly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
